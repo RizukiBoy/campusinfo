@@ -37,7 +37,7 @@
           >
 
             <div className="w-full h-60 rounded-lg">
-            <img src="dadnadkjas.jpg"/>
+            <img src="dadnadkjas.jpg" alt="dadasda"/>
             </div>
             <h3 className="text-lg font-semibold text-gray-800 mb-2">
               {beasiswa.nama}
